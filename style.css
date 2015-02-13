@@ -1,0 +1,27 @@
+.cell {
+	border: 1px solid orange;
+	display: inline-block;
+}
+
+.selected {
+	background-color: lightgray;
+}
+
+/*x.selected {
+	background: url();
+}
+//o.selected {
+	background: url();
+}*/
+
+#container {
+	width: 320px;
+	height: 320px;
+}
+
+.square {
+	border: 2px solid purple;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}
